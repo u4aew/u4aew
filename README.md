@@ -1,6 +1,3 @@
-Hi 👋 My name is Sergei Uchaev
-==============================
-
 Frontend developer
 ------------------
 
