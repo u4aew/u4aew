@@ -1,7 +1,7 @@
 Frontend developer
 ------------------
 
-Working in the field since 2015. I have expertise in creating e-commerce websites, landing pages, and services. Currently, I'm working in the fintech industry, leveraging my skills to develop innovative solutions.
+Working in the field since 2015. I have expertise in creating e-commerce websites, landing pages, and services. Currently, I'm working in the hr-tech industry, leveraging my skills to develop innovative solutions.
 
 * ⚡  In my spare time, I enjoy immersing myself in the world of electronic music, open source and tufting
 
