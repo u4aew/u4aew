@@ -1,9 +1,9 @@
-Frontend developer
+Software engineer
 ------------------
 
-Working in the field since 2015. I have expertise in creating e-commerce websites, landing pages, and services. Currently, I'm working in the hr-tech industry, leveraging my skills to develop innovative solutions.
+Working in the field since 2015. I have expertise in creating e-commerce websites, landing pages, and services. Currently, I'm working in the hr-tech industry, leveraging my skills to develop innovative solutions.My core stack includes React, Node.js, and PostgreSQL. In my daily workflow, I actively build RAG systems, integrate LLMs, and develop autonomous AI agents.
 
-* ⚡  In my spare time, I enjoy immersing myself in the world of electronic music, open source and tufting
+⚡ In my spare time, I enjoy immersing myself in the world of open source and tufting.
 
 ### Socials
 
